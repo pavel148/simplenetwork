@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Neuron\bin\Debug\net6.0\Neuron.exe
+C:\Users\Lenovo\source\repos\Neuron\bin\Debug\net6.0\Neuron.deps.json
+C:\Users\Lenovo\source\repos\Neuron\bin\Debug\net6.0\Neuron.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Neuron\bin\Debug\net6.0\Neuron.dll
+C:\Users\Lenovo\source\repos\Neuron\bin\Debug\net6.0\Neuron.pdb
+C:\Users\Lenovo\source\repos\Neuron\obj\Debug\net6.0\Neuron.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Neuron\obj\Debug\net6.0\Neuron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Neuron\obj\Debug\net6.0\Neuron.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Neuron\obj\Debug\net6.0\Neuron.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Neuron\obj\Debug\net6.0\Neuron.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Neuron\obj\Debug\net6.0\Neuron.dll
+C:\Users\Lenovo\source\repos\Neuron\obj\Debug\net6.0\refint\Neuron.dll
+C:\Users\Lenovo\source\repos\Neuron\obj\Debug\net6.0\Neuron.pdb
+C:\Users\Lenovo\source\repos\Neuron\obj\Debug\net6.0\Neuron.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Neuron\obj\Debug\net6.0\ref\Neuron.dll
